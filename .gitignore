@@ -1,0 +1,18 @@
+# Compiled Java files
+*.class
+*.jar
+
+# Settings for IntelliJ
+*.iml
+.idea
+
+# Settings for Eclipse
+.classpath
+.settings
+.project
+
+# Common directories for build output
+bin
+out
+target
+build
